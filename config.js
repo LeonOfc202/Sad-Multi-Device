@@ -4,14 +4,14 @@ import { watchFile, unwatchFile } from 'fs'
 import moment from 'moment-timezone'
 
 global.owner = [
-  ['+1 760-891-4335'],
-  ['+84 82 430 4616'],
-  ['+84 34 979 0091'],
-  ['+62 818-0545-0249'],
-  ['17608914335', 'Papah-Chan', true],
-  ['+84 82 430 4616', 'Bot', true],
-  ['+84 34 979 0091', 'Johannes', true],
-  ['+62 895-1502-3118', 'CEKIL OFFICIAL', true],
+  ['+62 877-6055-0924'],
+  ['+62 877-6055-0924'],
+  ['+62 877-6055-0924'],
+  ['+62 877-6055-0924'],
+  ['6287760550924', 'owner', true],
+  ['+62 877-6055-0924', 'Bot', true],
+  ['+62 877-6055-0924', 'Johannes', true],
+  ['+62 877-6055-0924', 'Owner-Botz', true],
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -39,20 +39,20 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://violetics.pw': 'beta'
 }
-global.wm = '                「 ꜱᴀᴅ BOT あ⁩ 」' //Main Watermark
+global.wm = '                「 𝐙𝐄𝐑𝐎 𝐓𝐖𝐎 𝑴𝑫 あ⁩ 」' //Main Watermark
 
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ 𝒁𝑬𝑹𝑶 𝑻𝑾𝑶 - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
-global.wm3 = '⫹⫺ ꜱᴀᴅ 𝗕𝗢𝗧'
+global.wm3 = '⫹⫺ 𝒁𝑬𝑹𝑶 𝑻𝑾𝑶 𝐌𝐃'
 
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 
-global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
+global.bottime = `𝐓 𝐈 𝐌 𝐄 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
 `
 
-global.author = '                「 ꜱᴀᴅ BOT あ⁩ 」'
+global.author = '                「 𝐙𝐄𝐑𝐎 𝐓𝐖𝐎 あ⁩ 」'
 
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
@@ -77,10 +77,10 @@ global.hbunny = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://t
 global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://telegra.ph/file/b6905b77e6c7732592a13.jpg','https://telegra.ph/file/9da45a352eb4c40e5d641.jpg', 'https://telegra.ph/file/59e78846ee365975ee6e3.jpg','https://telegra.ph/file/1bf7dee46b83eb4c41d7d.jpg','https://telegra.ph/file/0525a7929f819cb8278f3.jpg']
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895413772440'
-global.nomorown = '6289515023118'
-global.namebot = 'Sad-Bot'
-global.nameown = 'cekilgans'
+global.nomorbot = '6287760550924'
+global.nomorown = '6287760550924'
+global.namebot = '𝐙𝐄𝐑𝐎 𝐓𝐖𝐎'
+global.nameown = '𝐎𝐖𝐍𝐄𝐑-𝐁𝐎𝐓𝐙'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -88,26 +88,26 @@ global.fpagedoc = '999'
 
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
-global.dmenut = '❏═┅═━–〈' //top
-global.dmenub = '┊›' //body
-global.dmenub2 = '┊' //body for info cmd on Default menu
-global.dmenuf = '┗––––––––––✦' //footer
+global.dmenut = '⌬━─━╍╍๛' //top
+global.dmenub = '〣' //body
+global.dmenub2 = '〢' //body for info cmd on Default menu
+global.dmenuf = '╚⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉⑉☬' //footer
 
 // COMMAND MENU
 global.dashmenu = '┅━━━━━═┅═❏ *DASHBOARD* ❏═┅═━━━━━┅'
-global.cmenut = '❏––––––『' //top
-global.cmenuh = '』––––––' //header
+global.cmenut = '┉┉┉┉『' //top
+global.cmenuh = '❂ ╾╼╾╼╾╼' //header
 global.cmenub = '┊々 ' //body
 global.cmenuf = '┗━═┅═━––––––๑\n' //footer
 global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     ' //after
-global.pmenus = '✦' //pembatas menu selector
+global.pmenus = '⊱' //pembatas menu selector
 
-global.htki = '––––––『' //hiasan title kiri
-global.htka = '』––––––' //hiasan title kanan
+global.htki = '╾╼╾╼╾╼ ❂' //hiasan title kiri
+global.htka = '』┉┉┉┉' //hiasan title kanan
 global.lopr = 'Ⓟ'
 global.lolm = 'Ⓛ'
-global.htjava = '⫹⫺' //hiasan Doang :v
-global.hsquere = '⛶', '❏', '⫹⫺'
+global.htjava = '⇰' //hiasan Doang :v
+global.hsquere = '𓂀︎', '᳀', '卍'
 
 // Sticker WM
 global.packname = ''
